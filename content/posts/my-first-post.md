@@ -4,8 +4,10 @@ date: 2021-09-07T10:26:08+08:00
 draft: false
 ---
 
-<!--hugo server -D -->
-<!--run in the internet -->
+<!--hugo server -D -- to run the internet-->
+<!-- git commit -m "init commit"  --to commit the git -->
+<!-- git push origin master to refresh the web -->
+
 
 # iOS Club
 
